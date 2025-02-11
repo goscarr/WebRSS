@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>My Blog</title>
-  <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
-  <language>en-us</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+  <title>Cristiano Ronaldo</title>
+  <link>https://goscarr.github.io/WebRSS/</link>
+  <description>Los pasos de Cristiano Ronaldo hasta su éxito.</description>
+  <language>español</language>
+  <lastBuildDate>Lunes, 17 Octubre 2023 16:00:00 GMT</lastBuildDate>
 
   <item>
-    <title>Blog Entry 1</title>
+    <title>Infancia</title>
     <link>https://www.example.com/blog-entry-1.html</link>
-    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
-<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
+    <description>La dificil infancia de Cristiano antes del éxito, marcada por la pobreza, problemas familiares como la muerte de su padre y la dificultad para poder jugar al futbol.</description>
+<pubDate>Lunes, 17 Octubre 2023 16:00:00 GMT</pubDate>
 <guid>https://www.example.com/blog-entry-1.html</guid>
 </item>
 
   <item>
-    <title>Blog Entry 2</title>
+    <title>Fichaje por el Madrid</title>
     <link>https://www.example.com/blog-entry-2.html</link>
-    <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
-    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
+    <description>El fichaje de Cristiano por el Madrid se convirtio con el paso de los años en un fichaje de época y no solo por los números y títulos sino por todo lo que conllevo como el salto de calidad de La Liga, el coste de los fichajes, la rivalidad con Messi... ..</description>
+    <pubDate>Lunes, 17 Octubre 2023 16:00:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-2.html</guid>
   </item>
   <item>
-    <title>Blog Entry 3</title>
+    <title>Cristiano Ronaldo al Al-Nassr</title>
     <link>https://www.example.com/blog-entry-3.html</link>
-    <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
-    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
+    <description>La llegada de Cristiano al club árabe provoco mucho revuelo y opiniones distintas en la gente, pero a pesar de eso Cristiano sigue rompiendo records a sus 40 años con cifras goleadoras nunca antes vistas, ademas de que causo una mejoría enorme en la liga árabe. .</description>
+    <pubDate>Lunes, 17 Octubre 2023 16:00:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-3.html</guid>
   </item>
 </channel>
